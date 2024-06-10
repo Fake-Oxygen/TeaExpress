@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.5.13)  30 MAY 2024 20:52
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024/Arch Linux)  (format=lualatex 2024.6.7)  8 JUN 2024 12:33
  restricted system commands enabled.
 **dokumentacja.tex
 (./dokumentacja.tex
@@ -523,7 +523,7 @@ Package hyperref Info: Link coloring OFF on input line 31.
 \@outlinefile=\write3
 
 \openout3 = dokumentacja.out
-<./Figures/logo.png, id=48, 1185.42876pt x 1185.42876pt>
+<./Figures/logo.png, id=64, 1185.42876pt x 1185.42876pt>
 File: ./Figures/logo.png Graphic file (type png)
 <use ./Figures/logo.png>
 Package luatex.def Info: ./Figures/logo.png  used on input line 42.
@@ -535,7 +535,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 warning  (file rysunek.pdf) (pdf inclusion): PDF inclusion: found PDF version '1
 .7', but at most version '1.5' allowed
-<rysunek.pdf, id=49, 3382.6375pt x 2392.94pt>
+<rysunek.pdf, id=65, 3382.6375pt x 2392.94pt>
 File: rysunek.pdf Graphic file (type pdf)
 <use rysunek.pdf>
 Package luatex.def Info: rysunek.pdf  used on input line 59.
@@ -553,7 +553,7 @@ warning  (file rysunek.pdf) (pdf inclusion): PDF inclusion: found PDF version '1
 
 warning  (file rysunek.pdf) (pdf inclusion): PDF inclusion: found PDF version '1
 .7', but at most version '1.5' allowed
-<rysunek.pdf, id=52, page=1, 3382.6375pt x 2392.94pt>
+<rysunek.pdf, id=68, page=1, 3382.6375pt x 2392.94pt>
 File: rysunek.pdf Graphic file (type pdf)
 <use rysunek.pdf, page 1>
 Package luatex.def Info: rysunek.pdf , page1 used on input line 59.
@@ -581,74 +581,96 @@ Package luatex.def Info: rysunek.pdf , page1 used on input line 59.
 [2
 
 <./rysunek.pdf>]
-<./Figures/model2.png, id=81, 531.48563pt x 479.54156pt>
+<./Figures/model2.png, id=97, 531.48563pt x 479.54156pt>
 File: ./Figures/model2.png Graphic file (type png)
 <use ./Figures/model2.png>
 Package luatex.def Info: ./Figures/model2.png  used on input line 63.
 (luatex.def)             Requested size: 354.12144pt x 319.52042pt.
-<./Figures/model.png, id=82, 1065.9825pt x 843.15pt>
+<./Figures/model.png, id=98, 1065.9825pt x 843.15pt>
 File: ./Figures/model.png Graphic file (type png)
 <use ./Figures/model.png>
 Package luatex.def Info: ./Figures/model.png  used on input line 64.
 (luatex.def)             Requested size: 455.2979pt x 360.11586pt.
-<./Figures/silownik.png, id=83, 1065.9825pt x 492.84125pt>
+<./Figures/silownik.png, id=99, 1065.9825pt x 492.84125pt>
 File: ./Figures/silownik.png Graphic file (type png)
 <use ./Figures/silownik.png>
 Package luatex.def Info: ./Figures/silownik.png  used on input line 73.
 (luatex.def)             Requested size: 505.89pt x 233.89145pt.
-<./Figures/silownik2.png, id=84, 1089.06876pt x 1037.8775pt>
+<./Figures/silownik2.png, id=100, 1089.06876pt x 1037.8775pt>
 File: ./Figures/silownik2.png Graphic file (type png)
 <use ./Figures/silownik2.png>
 Package luatex.def Info: ./Figures/silownik2.png  used on input line 74.
 (luatex.def)             Requested size: 455.2979pt x 433.89432pt.
  [3<./Figures/model2.png><./Figures/model.png>]
-<./Figures/gt2.png, id=91, 1560.83125pt x 988.69376pt>
+<./Figures/gt2.png, id=107, 1560.83125pt x 988.69376pt>
 File: ./Figures/gt2.png Graphic file (type png)
 <use ./Figures/gt2.png>
 Package luatex.def Info: ./Figures/gt2.png  used on input line 81.
 (luatex.def)             Requested size: 505.89pt x 320.44667pt.
  [4<./Figures/silownik.png><./Figures/silownik2.png>]
-<./Figures/mr105.png, id=96, 1190.4475pt x 634.37pt>
+<./Figures/mr105.png, id=112, 1190.4475pt x 634.37pt>
 File: ./Figures/mr105.png Graphic file (type png)
 <use ./Figures/mr105.png>
 Package luatex.def Info: ./Figures/mr105.png  used on input line 84.
 (luatex.def)             Requested size: 505.89pt x 269.57948pt.
-<./Figures/silnikkrokowy.png, id=97, 722.7pt x 455.7025pt>
+<./Figures/silnikkrokowy.png, id=113, 722.7pt x 455.7025pt>
 File: ./Figures/silnikkrokowy.png Graphic file (type png)
 <use ./Figures/silnikkrokowy.png>
 Package luatex.def Info: ./Figures/silnikkrokowy.png  used on input line 87.
 (luatex.def)             Requested size: 505.89pt x 318.98956pt.
  [5<./Figures/gt2.png><./Figures/mr105.png>]
-<./Figures/pompa.png, id=102, 362.35374pt x 325.215pt>
+<./Figures/pompa.png, id=118, 362.35374pt x 325.215pt>
 File: ./Figures/pompa.png Graphic file (type png)
 <use ./Figures/pompa.png>
 Package luatex.def Info: ./Figures/pompa.png  used on input line 90.
 (luatex.def)             Requested size: 303.53708pt x 272.42941pt.
-<./Figures/serwolf.png, id=103, 574.145pt x 762.85pt>
+<./Figures/serwolf.png, id=119, 574.145pt x 762.85pt>
 File: ./Figures/serwolf.png Graphic file (type png)
 <use ./Figures/serwolf.png>
 Package luatex.def Info: ./Figures/serwolf.png  used on input line 93.
 (luatex.def)             Requested size: 303.53708pt x 403.30753pt.
  [6<./Figures/silnikkrokowy.png><./Figures/pompa.png>]
-<./Figures/serwosg.png, id=108, 398.48875pt x 284.06125pt>
+<./Figures/serwosg.png, id=124, 398.48875pt x 284.06125pt>
 File: ./Figures/serwosg.png Graphic file (type png)
 <use ./Figures/serwosg.png>
 Package luatex.def Info: ./Figures/serwosg.png  used on input line 96.
 (luatex.def)             Requested size: 303.53708pt x 216.38289pt.
+<./Figures/pasek.png, id=125, 592.2125pt x 337.26pt>
+File: ./Figures/pasek.png Graphic file (type png)
+<use ./Figures/pasek.png>
+Package luatex.def Info: ./Figures/pasek.png  used on input line 99.
+(luatex.def)             Requested size: 505.89pt x 288.10812pt.
+ [7<./Figures/serwolf.png><./Figures/serwosg.png>]
+<./Figures/kran.png, id=130, 465.74pt x 256.96pt>
+File: ./Figures/kran.png Graphic file (type png)
+<use ./Figures/kran.png>
+Package luatex.def Info: ./Figures/kran.png  used on input line 102.
+(luatex.def)             Requested size: 505.89pt x 279.12022pt.
+<./Figures/zawor.png, id=131, 795.97375pt x 732.7375pt>
+File: ./Figures/zawor.png Graphic file (type png)
+<use ./Figures/zawor.png>
+Package luatex.def Info: ./Figures/zawor.png  used on input line 105.
+(luatex.def)             Requested size: 404.71353pt x 372.56194pt.
+ [8<./Figures/pasek.png><./Figures/kran.png>]
+<./Figures/plyta.png, id=136, 536.0025pt x 382.42876pt>
+File: ./Figures/plyta.png Graphic file (type png)
+<use ./Figures/plyta.png>
+Package luatex.def Info: ./Figures/plyta.png  used on input line 108.
+(luatex.def)             Requested size: 354.12144pt x 252.65466pt.
 
 warning  (file Prezentacja 1 revised.pdf) (pdf inclusion): PDF inclusion: found 
 PDF version '1.7', but at most version '1.5' allowed
-<Prezentacja 1 revised.pdf, id=109, 1445.4pt x 813.0375pt>
+<Prezentacja 1 revised.pdf, id=137, 1445.4pt x 813.0375pt>
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
 <use Prezentacja 1 revised.pdf>
-Package luatex.def Info: Prezentacja 1 revised.pdf  used on input line 98.
+Package luatex.def Info: Prezentacja 1 revised.pdf  used on input line 111.
 (luatex.def)             Requested size: 1445.39648pt x 813.03552pt.
 
 warning  (file Prezentacja 1 revised.pdf) (pdf inclusion): PDF inclusion: found 
 PDF version '1.7', but at most version '1.5' allowed
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
 <use Prezentacja 1 revised.pdf>
-Package luatex.def Info: Prezentacja 1 revised.pdf  used on input line 98.
+Package luatex.def Info: Prezentacja 1 revised.pdf  used on input line 111.
 (luatex.def)             Requested size: 1445.39648pt x 813.03552pt.
 
 warning  (file Prezentacja 1 revised.pdf) (pdf inclusion): PDF inclusion: found 
@@ -656,318 +678,318 @@ PDF version '1.7', but at most version '1.5' allowed
 
 warning  (file Prezentacja 1 revised.pdf) (pdf inclusion): PDF inclusion: found 
 PDF version '1.7', but at most version '1.5' allowed
-<Prezentacja 1 revised.pdf, id=112, page=1, 1445.4pt x 813.0375pt>
+<Prezentacja 1 revised.pdf, id=140, page=1, 1445.4pt x 813.0375pt>
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
 <use Prezentacja 1 revised.pdf, page 1>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page1 used on input line 9
-8.
+Package luatex.def Info: Prezentacja 1 revised.pdf , page1 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.39648pt x 813.03552pt.
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
 <use Prezentacja 1 revised.pdf, page 1>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page1 used on input line 9
-8.
+Package luatex.def Info: Prezentacja 1 revised.pdf , page1 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
-[7<./Figures/serwolf.png><./Figures/serwosg.png>]
+[9<./Figures/zawor.png><./Figures/plyta.png>]
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
 <use Prezentacja 1 revised.pdf, page 1>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page1 used on input line 9
-8.
-(luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
-File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 1>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page1 used on input line 9
-8.
+Package luatex.def Info: Prezentacja 1 revised.pdf , page1 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
 <use Prezentacja 1 revised.pdf, page 1>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page1 used on input line 9
-8.
+Package luatex.def Info: Prezentacja 1 revised.pdf , page1 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
- [8
+File: Prezentacja 1 revised.pdf Graphic file (type pdf)
+<use Prezentacja 1 revised.pdf, page 1>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page1 used on input line 1
+11.
+(luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
+ [10
 
 <./Prezentacja 1 revised.pdf>]
 warning  (file Prezentacja 1 revised.pdf) (pdf inclusion): PDF inclusion: found 
 PDF version '1.7', but at most version '1.5' allowed
-<Prezentacja 1 revised.pdf, id=135, page=2, 1445.4pt x 813.0375pt>
+<Prezentacja 1 revised.pdf, id=163, page=2, 1445.4pt x 813.0375pt>
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
 <use Prezentacja 1 revised.pdf, page 2>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page2 used on input line 9
-8.
-(luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
-File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 2>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page2 used on input line 9
-8.
+Package luatex.def Info: Prezentacja 1 revised.pdf , page2 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
 <use Prezentacja 1 revised.pdf, page 2>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page2 used on input line 9
-8.
-(luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
-[9
-
-<./Prezentacja 1 revised.pdf>]
-warning  (file Prezentacja 1 revised.pdf) (pdf inclusion): PDF inclusion: found 
-PDF version '1.7', but at most version '1.5' allowed
-<Prezentacja 1 revised.pdf, id=151, page=3, 1445.4pt x 813.0375pt>
-File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 3>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page3 used on input line 9
-8.
+Package luatex.def Info: Prezentacja 1 revised.pdf , page2 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 3>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page3 used on input line 9
-8.
-(luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
-File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 3>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page3 used on input line 9
-8.
-(luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
-[10
-
-<./Prezentacja 1 revised.pdf>]
-warning  (file Prezentacja 1 revised.pdf) (pdf inclusion): PDF inclusion: found 
-PDF version '1.7', but at most version '1.5' allowed
-<Prezentacja 1 revised.pdf, id=177, page=4, 1445.4pt x 813.0375pt>
-File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 4>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page4 used on input line 9
-8.
-(luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
-File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 4>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page4 used on input line 9
-8.
-(luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
-File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 4>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page4 used on input line 9
-8.
+<use Prezentacja 1 revised.pdf, page 2>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page2 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 [11
 
 <./Prezentacja 1 revised.pdf>]
 warning  (file Prezentacja 1 revised.pdf) (pdf inclusion): PDF inclusion: found 
 PDF version '1.7', but at most version '1.5' allowed
-<Prezentacja 1 revised.pdf, id=188, page=5, 1445.4pt x 813.0375pt>
+<Prezentacja 1 revised.pdf, id=181, page=3, 1445.4pt x 813.0375pt>
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 5>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page5 used on input line 9
-8.
+<use Prezentacja 1 revised.pdf, page 3>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page3 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 5>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page5 used on input line 9
-8.
+<use Prezentacja 1 revised.pdf, page 3>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page3 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 5>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page5 used on input line 9
-8.
+<use Prezentacja 1 revised.pdf, page 3>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page3 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 [12
 
 <./Prezentacja 1 revised.pdf>]
 warning  (file Prezentacja 1 revised.pdf) (pdf inclusion): PDF inclusion: found 
 PDF version '1.7', but at most version '1.5' allowed
-<Prezentacja 1 revised.pdf, id=194, page=6, 1445.4pt x 813.0375pt>
+<Prezentacja 1 revised.pdf, id=206, page=4, 1445.4pt x 813.0375pt>
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 6>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page6 used on input line 9
-8.
+<use Prezentacja 1 revised.pdf, page 4>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page4 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 6>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page6 used on input line 9
-8.
+<use Prezentacja 1 revised.pdf, page 4>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page4 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 6>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page6 used on input line 9
-8.
+<use Prezentacja 1 revised.pdf, page 4>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page4 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 [13
 
 <./Prezentacja 1 revised.pdf>]
 warning  (file Prezentacja 1 revised.pdf) (pdf inclusion): PDF inclusion: found 
 PDF version '1.7', but at most version '1.5' allowed
-<Prezentacja 1 revised.pdf, id=206, page=7, 1445.4pt x 813.0375pt>
+<Prezentacja 1 revised.pdf, id=216, page=5, 1445.4pt x 813.0375pt>
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 7>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page7 used on input line 9
-8.
+<use Prezentacja 1 revised.pdf, page 5>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page5 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 7>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page7 used on input line 9
-8.
+<use Prezentacja 1 revised.pdf, page 5>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page5 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 7>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page7 used on input line 9
-8.
+<use Prezentacja 1 revised.pdf, page 5>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page5 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 [14
 
 <./Prezentacja 1 revised.pdf>]
 warning  (file Prezentacja 1 revised.pdf) (pdf inclusion): PDF inclusion: found 
 PDF version '1.7', but at most version '1.5' allowed
-<Prezentacja 1 revised.pdf, id=213, page=8, 1445.4pt x 813.0375pt>
+<Prezentacja 1 revised.pdf, id=222, page=6, 1445.4pt x 813.0375pt>
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 8>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page8 used on input line 9
-8.
+<use Prezentacja 1 revised.pdf, page 6>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page6 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 8>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page8 used on input line 9
-8.
+<use Prezentacja 1 revised.pdf, page 6>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page6 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 8>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page8 used on input line 9
-8.
+<use Prezentacja 1 revised.pdf, page 6>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page6 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 [15
 
 <./Prezentacja 1 revised.pdf>]
 warning  (file Prezentacja 1 revised.pdf) (pdf inclusion): PDF inclusion: found 
 PDF version '1.7', but at most version '1.5' allowed
-<Prezentacja 1 revised.pdf, id=219, page=9, 1445.4pt x 813.0375pt>
+<Prezentacja 1 revised.pdf, id=234, page=7, 1445.4pt x 813.0375pt>
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 9>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page9 used on input line 9
-8.
+<use Prezentacja 1 revised.pdf, page 7>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page7 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 9>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page9 used on input line 9
-8.
+<use Prezentacja 1 revised.pdf, page 7>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page7 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 File: Prezentacja 1 revised.pdf Graphic file (type pdf)
-<use Prezentacja 1 revised.pdf, page 9>
-Package luatex.def Info: Prezentacja 1 revised.pdf , page9 used on input line 9
-8.
+<use Prezentacja 1 revised.pdf, page 7>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page7 used on input line 1
+11.
 (luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 [16
 
 <./Prezentacja 1 revised.pdf>]
-warning  (file Prezentacja 2.pdf) (pdf inclusion): PDF inclusion: found PDF vers
-ion '1.7', but at most version '1.5' allowed
-<Prezentacja 2.pdf, id=225, 963.6pt x 542.025pt>
-File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf>
-Package luatex.def Info: Prezentacja 2.pdf  used on input line 99.
-(luatex.def)             Requested size: 963.59766pt x 542.02367pt.
-
-warning  (file Prezentacja 2.pdf) (pdf inclusion): PDF inclusion: found PDF vers
-ion '1.7', but at most version '1.5' allowed
-File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf>
-Package luatex.def Info: Prezentacja 2.pdf  used on input line 99.
-(luatex.def)             Requested size: 963.59766pt x 542.02367pt.
-
-warning  (file Prezentacja 2.pdf) (pdf inclusion): PDF inclusion: found PDF vers
-ion '1.7', but at most version '1.5' allowed
-
-warning  (file Prezentacja 2.pdf) (pdf inclusion): PDF inclusion: found PDF vers
-ion '1.7', but at most version '1.5' allowed
-<Prezentacja 2.pdf, id=228, page=1, 963.6pt x 542.025pt>
-File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 1>
-Package luatex.def Info: Prezentacja 2.pdf , page1 used on input line 99.
-(luatex.def)             Requested size: 963.59766pt x 542.02367pt.
-File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 1>
-Package luatex.def Info: Prezentacja 2.pdf , page1 used on input line 99.
-(luatex.def)             Requested size: 963.62706pt x 542.0402pt.
-File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 1>
-Package luatex.def Info: Prezentacja 2.pdf , page1 used on input line 99.
-(luatex.def)             Requested size: 963.62706pt x 542.0402pt.
-File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 1>
-Package luatex.def Info: Prezentacja 2.pdf , page1 used on input line 99.
-(luatex.def)             Requested size: 963.62706pt x 542.0402pt.
-File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 1>
-Package luatex.def Info: Prezentacja 2.pdf , page1 used on input line 99.
-(luatex.def)             Requested size: 963.62706pt x 542.0402pt.
+warning  (file Prezentacja 1 revised.pdf) (pdf inclusion): PDF inclusion: found 
+PDF version '1.7', but at most version '1.5' allowed
+<Prezentacja 1 revised.pdf, id=241, page=8, 1445.4pt x 813.0375pt>
+File: Prezentacja 1 revised.pdf Graphic file (type pdf)
+<use Prezentacja 1 revised.pdf, page 8>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page8 used on input line 1
+11.
+(luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
+File: Prezentacja 1 revised.pdf Graphic file (type pdf)
+<use Prezentacja 1 revised.pdf, page 8>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page8 used on input line 1
+11.
+(luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
+File: Prezentacja 1 revised.pdf Graphic file (type pdf)
+<use Prezentacja 1 revised.pdf, page 8>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page8 used on input line 1
+11.
+(luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 [17
 
-<./prezentacja 2.pdf>]
-warning  (file Prezentacja 2.pdf) (pdf inclusion): PDF inclusion: found PDF vers
-ion '1.7', but at most version '1.5' allowed
-<Prezentacja 2.pdf, id=248, page=2, 963.6pt x 542.025pt>
-File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 2>
-Package luatex.def Info: Prezentacja 2.pdf , page2 used on input line 99.
-(luatex.def)             Requested size: 963.62706pt x 542.0402pt.
-File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 2>
-Package luatex.def Info: Prezentacja 2.pdf , page2 used on input line 99.
-(luatex.def)             Requested size: 963.62706pt x 542.0402pt.
-File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 2>
-Package luatex.def Info: Prezentacja 2.pdf , page2 used on input line 99.
-(luatex.def)             Requested size: 963.62706pt x 542.0402pt.
+<./Prezentacja 1 revised.pdf>]
+warning  (file Prezentacja 1 revised.pdf) (pdf inclusion): PDF inclusion: found 
+PDF version '1.7', but at most version '1.5' allowed
+<Prezentacja 1 revised.pdf, id=247, page=9, 1445.4pt x 813.0375pt>
+File: Prezentacja 1 revised.pdf Graphic file (type pdf)
+<use Prezentacja 1 revised.pdf, page 9>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page9 used on input line 1
+11.
+(luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
+File: Prezentacja 1 revised.pdf Graphic file (type pdf)
+<use Prezentacja 1 revised.pdf, page 9>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page9 used on input line 1
+11.
+(luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
+File: Prezentacja 1 revised.pdf Graphic file (type pdf)
+<use Prezentacja 1 revised.pdf, page 9>
+Package luatex.def Info: Prezentacja 1 revised.pdf , page9 used on input line 1
+11.
+(luatex.def)             Requested size: 1445.44058pt x 813.06033pt.
 [18
 
-<./prezentacja 2.pdf>]
+<./Prezentacja 1 revised.pdf>]
 warning  (file Prezentacja 2.pdf) (pdf inclusion): PDF inclusion: found PDF vers
 ion '1.7', but at most version '1.5' allowed
-<Prezentacja 2.pdf, id=254, page=3, 963.6pt x 542.025pt>
+<Prezentacja 2.pdf, id=253, 963.6pt x 542.025pt>
 File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 3>
-Package luatex.def Info: Prezentacja 2.pdf , page3 used on input line 99.
+<use Prezentacja 2.pdf>
+Package luatex.def Info: Prezentacja 2.pdf  used on input line 112.
+(luatex.def)             Requested size: 963.59766pt x 542.02367pt.
+
+warning  (file Prezentacja 2.pdf) (pdf inclusion): PDF inclusion: found PDF vers
+ion '1.7', but at most version '1.5' allowed
+File: Prezentacja 2.pdf Graphic file (type pdf)
+<use Prezentacja 2.pdf>
+Package luatex.def Info: Prezentacja 2.pdf  used on input line 112.
+(luatex.def)             Requested size: 963.59766pt x 542.02367pt.
+
+warning  (file Prezentacja 2.pdf) (pdf inclusion): PDF inclusion: found PDF vers
+ion '1.7', but at most version '1.5' allowed
+
+warning  (file Prezentacja 2.pdf) (pdf inclusion): PDF inclusion: found PDF vers
+ion '1.7', but at most version '1.5' allowed
+<Prezentacja 2.pdf, id=256, page=1, 963.6pt x 542.025pt>
+File: Prezentacja 2.pdf Graphic file (type pdf)
+<use Prezentacja 2.pdf, page 1>
+Package luatex.def Info: Prezentacja 2.pdf , page1 used on input line 112.
+(luatex.def)             Requested size: 963.59766pt x 542.02367pt.
+File: Prezentacja 2.pdf Graphic file (type pdf)
+<use Prezentacja 2.pdf, page 1>
+Package luatex.def Info: Prezentacja 2.pdf , page1 used on input line 112.
 (luatex.def)             Requested size: 963.62706pt x 542.0402pt.
 File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 3>
-Package luatex.def Info: Prezentacja 2.pdf , page3 used on input line 99.
+<use Prezentacja 2.pdf, page 1>
+Package luatex.def Info: Prezentacja 2.pdf , page1 used on input line 112.
 (luatex.def)             Requested size: 963.62706pt x 542.0402pt.
 File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 3>
-Package luatex.def Info: Prezentacja 2.pdf , page3 used on input line 99.
+<use Prezentacja 2.pdf, page 1>
+Package luatex.def Info: Prezentacja 2.pdf , page1 used on input line 112.
+(luatex.def)             Requested size: 963.62706pt x 542.0402pt.
+File: Prezentacja 2.pdf Graphic file (type pdf)
+<use Prezentacja 2.pdf, page 1>
+Package luatex.def Info: Prezentacja 2.pdf , page1 used on input line 112.
 (luatex.def)             Requested size: 963.62706pt x 542.0402pt.
 [19
 
 <./prezentacja 2.pdf>]
 warning  (file Prezentacja 2.pdf) (pdf inclusion): PDF inclusion: found PDF vers
 ion '1.7', but at most version '1.5' allowed
-<Prezentacja 2.pdf, id=260, page=4, 963.6pt x 542.025pt>
+<Prezentacja 2.pdf, id=276, page=2, 963.6pt x 542.025pt>
 File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 4>
-Package luatex.def Info: Prezentacja 2.pdf , page4 used on input line 99.
+<use Prezentacja 2.pdf, page 2>
+Package luatex.def Info: Prezentacja 2.pdf , page2 used on input line 112.
 (luatex.def)             Requested size: 963.62706pt x 542.0402pt.
 File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 4>
-Package luatex.def Info: Prezentacja 2.pdf , page4 used on input line 99.
+<use Prezentacja 2.pdf, page 2>
+Package luatex.def Info: Prezentacja 2.pdf , page2 used on input line 112.
 (luatex.def)             Requested size: 963.62706pt x 542.0402pt.
 File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 4>
-Package luatex.def Info: Prezentacja 2.pdf , page4 used on input line 99.
+<use Prezentacja 2.pdf, page 2>
+Package luatex.def Info: Prezentacja 2.pdf , page2 used on input line 112.
 (luatex.def)             Requested size: 963.62706pt x 542.0402pt.
 [20
 
 <./prezentacja 2.pdf>]
 warning  (file Prezentacja 2.pdf) (pdf inclusion): PDF inclusion: found PDF vers
 ion '1.7', but at most version '1.5' allowed
-<Prezentacja 2.pdf, id=266, page=5, 963.6pt x 542.025pt>
+<Prezentacja 2.pdf, id=282, page=3, 963.6pt x 542.025pt>
 File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 5>
-Package luatex.def Info: Prezentacja 2.pdf , page5 used on input line 99.
+<use Prezentacja 2.pdf, page 3>
+Package luatex.def Info: Prezentacja 2.pdf , page3 used on input line 112.
 (luatex.def)             Requested size: 963.62706pt x 542.0402pt.
 File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 5>
-Package luatex.def Info: Prezentacja 2.pdf , page5 used on input line 99.
+<use Prezentacja 2.pdf, page 3>
+Package luatex.def Info: Prezentacja 2.pdf , page3 used on input line 112.
 (luatex.def)             Requested size: 963.62706pt x 542.0402pt.
 File: Prezentacja 2.pdf Graphic file (type pdf)
-<use Prezentacja 2.pdf, page 5>
-Package luatex.def Info: Prezentacja 2.pdf , page5 used on input line 99.
+<use Prezentacja 2.pdf, page 3>
+Package luatex.def Info: Prezentacja 2.pdf , page3 used on input line 112.
 (luatex.def)             Requested size: 963.62706pt x 542.0402pt.
 [21
+
+<./prezentacja 2.pdf>]
+warning  (file Prezentacja 2.pdf) (pdf inclusion): PDF inclusion: found PDF vers
+ion '1.7', but at most version '1.5' allowed
+<Prezentacja 2.pdf, id=289, page=4, 963.6pt x 542.025pt>
+File: Prezentacja 2.pdf Graphic file (type pdf)
+<use Prezentacja 2.pdf, page 4>
+Package luatex.def Info: Prezentacja 2.pdf , page4 used on input line 112.
+(luatex.def)             Requested size: 963.62706pt x 542.0402pt.
+File: Prezentacja 2.pdf Graphic file (type pdf)
+<use Prezentacja 2.pdf, page 4>
+Package luatex.def Info: Prezentacja 2.pdf , page4 used on input line 112.
+(luatex.def)             Requested size: 963.62706pt x 542.0402pt.
+File: Prezentacja 2.pdf Graphic file (type pdf)
+<use Prezentacja 2.pdf, page 4>
+Package luatex.def Info: Prezentacja 2.pdf , page4 used on input line 112.
+(luatex.def)             Requested size: 963.62706pt x 542.0402pt.
+[22
+
+<./prezentacja 2.pdf>]
+warning  (file Prezentacja 2.pdf) (pdf inclusion): PDF inclusion: found PDF vers
+ion '1.7', but at most version '1.5' allowed
+<Prezentacja 2.pdf, id=295, page=5, 963.6pt x 542.025pt>
+File: Prezentacja 2.pdf Graphic file (type pdf)
+<use Prezentacja 2.pdf, page 5>
+Package luatex.def Info: Prezentacja 2.pdf , page5 used on input line 112.
+(luatex.def)             Requested size: 963.62706pt x 542.0402pt.
+File: Prezentacja 2.pdf Graphic file (type pdf)
+<use Prezentacja 2.pdf, page 5>
+Package luatex.def Info: Prezentacja 2.pdf , page5 used on input line 112.
+(luatex.def)             Requested size: 963.62706pt x 542.0402pt.
+File: Prezentacja 2.pdf Graphic file (type pdf)
+<use Prezentacja 2.pdf, page 5>
+Package luatex.def Info: Prezentacja 2.pdf , page5 used on input line 112.
+(luatex.def)             Requested size: 963.62706pt x 542.0402pt.
+[23
 
 <./prezentacja 2.pdf>] (./dokumentacja.aux)
  ***********
@@ -975,25 +997,25 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 Package rerunfilecheck Info: File `dokumentacja.out' has not changed.
-(rerunfilecheck)             Checksum: FF2E85265FF2BF482B75ABD9B147BFC5;1459.
+(rerunfilecheck)             Checksum: 0E389ADBE421511C20B9D0DF6DF70389;2051.
 )
 
 Here is how much of LuaTeX's memory you used:
- 13995 strings out of 476447
+ 14053 strings out of 476447
  125027,1977958 words of node,token memory allocated
  490 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 5 glue, 3 kern, 1 glyph, 10 attribute, 56 glue_spec
 , 5 attribute_list, 1 write nodes
-   avail lists: 1:1,2:636,3:201,4:63,5:376,6:42,7:4071,8:1,9:263,10:3,11:456
- 35639 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:636,3:201,4:63,5:376,6:42,7:4077,8:1,9:263,10:3,11:456
+ 35679 multiletter control sequences out of 65536+600000
  31 fonts using 2135183 bytes
  72i,17n,76p,304b,497s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf></usr/shar
 e/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf>
-Output written on dokumentacja.pdf (21 pages, 3579002 bytes).
+Output written on dokumentacja.pdf (23 pages, 4077280 bytes).
 
-PDF statistics: 294 PDF objects out of 1000 (max. 8388607)
- 187 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 131072)
- 89 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 323 PDF objects out of 1000 (max. 8388607)
+ 209 compressed objects within 3 object streams
+ 39 named destinations out of 1000 (max. 131072)
+ 121 words of extra memory for PDF output out of 10000 (max. 100000000)
 
